@@ -1,0 +1,16 @@
+.buttons-container{
+  padding: 20px 30px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+
+}
+.cal-btn{
+  height: 45px;
+  width: 45px;
+  margin: 5px;
+  padding: 10px;
+  align-items: center;
+  border: none;
+  box-shadow: 0 0 4px 0 black;
+}

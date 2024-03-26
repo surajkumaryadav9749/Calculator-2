@@ -1,0 +1,12 @@
+.Display{
+  height: 70px;
+  width: 250px;
+  box-shadow: 0 0 4px 0 black;
+  margin:5px 6px;
+  border: none;
+  padding: 20px;
+  outline: none;
+  font-size: 30px;
+  text-align: center;
+  /* background-color:; */
+}
