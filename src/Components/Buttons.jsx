@@ -3,7 +3,7 @@ import "./Buttons.css";
 
 const Buttons = ({ clicked }) => {
   let buttonsName = [
-    "C",
+    "c",
     "1",
     "2",
     "+",
